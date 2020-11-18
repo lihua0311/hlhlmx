@@ -14,10 +14,11 @@ void main()
         y=2*x-1;
         printf("x=%d,y=2*x-1=%d\n",x,y);
     }
-    else
+    else if(x>=10)
     {
         y=3*x-11;
     printf("x=%d,y=%d\n",x,y);
     }
+    else{}
 
 }
