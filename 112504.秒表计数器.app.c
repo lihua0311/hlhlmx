@@ -6,7 +6,7 @@ void main()
   printf("秒表计数器\n");
   do
   {
-      printf("%d\n",a);
+      printf("现在是第%d秒\n",a);
     a++;
     Sleep(1000);
   }
