@@ -3,7 +3,7 @@
 void main()
 {
   int a=1;
-  printf("秒表计时器\n");
+  printf("秒表计数器\n");
   do
   {
       printf("%d\n",a);
