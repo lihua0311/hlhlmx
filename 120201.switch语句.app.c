@@ -32,4 +32,5 @@ void main()
         default:printf("广科师牛逼！");break;
 
     }
+    system("pause");
 }
